@@ -1,4 +1,4 @@
-# Anoma-Style Intent-Centric Mini App — "Neighborhood Skill Swap"
+#Anoma Intent-centric Swap Demo"
 
 A beginner-friendly, end-to-end demo that shows how **intent-centric coordination** can work in practice.
 
