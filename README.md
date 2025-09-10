@@ -1,4 +1,4 @@
-## Anoma Intent-centric Swap Demo"
+## Anoma Intent-centric Swap Demo
 
 A beginner-friendly, end-to-end demo that shows how **intent-centric coordination** can work in practice.
 
